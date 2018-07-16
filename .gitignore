@@ -1,1 +1,9 @@
-*.ipynb*
+*.meta
+*.ckpt-*
+*.mp4
+*.csv
+/.ipynb_checkpoints/
+/__pycache__/
+/model*/
+*/.ipynb_checkpoints/
+*/__pycache__/
